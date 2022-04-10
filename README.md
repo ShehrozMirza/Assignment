@@ -17,8 +17,11 @@
 
  Requirements
  "Grab https://blog.truecaller.com/2018/01/22/life-as-an-android-engineer/ content from web".
+ 
  Request-I.  Find the 10th character and display it on the screen.
+ 
  Request-II. Find every 10th character (i.e. 10th, 20th, 30th, etc.) and display the array on the screen.
+ 
  Request-III. Split the text into words using whitespace characters (i.e. space, tab, line break, etc.) count the occurrence of every
  unique word (case insensitive) and display the count for each word on the screen.
 
