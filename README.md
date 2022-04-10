@@ -12,12 +12,14 @@
 # then I may do this assignment in a different way or use Http network library for fetching data and make a clean architecture approach 
 # using Solid principles,OOP,MVVM architecture pattern and unit test cases.
 
+# Requirements
 # "Grab https://blog.truecaller.com/2018/01/22/life-as-an-android-engineer/ content from web".
 # Request-I.  Find the 10th character and display it on the screen.
 # Request-II. Find every 10th character (i.e. 10th, 20th, 30th, etc.) and display the array on the screen.
 # Request-III. Split the text into words using whitespace characters (i.e. space, tab, line break, etc.) count the occurrence of every
 # unique word (case insensitive) and display the count for each word on the screen.
 
+# App Approach
 # Make the UI of app very simple just one Textview and button inside scrollview.
 # Use Coroutines for calling 3 requests simultaneously.
 # Use Sealed class for DataState.
@@ -25,7 +27,7 @@
 # Use Hilt for injecting components and use "by" delegation for injecting viewModel.
 # Add GitIgnore file.
 
-#Assumptions 
+# Assumptions 
 # Can I use third party libraries?
 # I assumed it is okay to use ScrapeIt library.
 
