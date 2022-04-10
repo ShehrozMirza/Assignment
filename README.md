@@ -35,4 +35,6 @@
 # I assumed it is okay to use ScrapeIt library.
 
 # Do I have to build a complex UI?
-# I assumed whole assignment task can be done in just one activity and I keep the UI very simple. 
+# I assumed whole assignment task can be done in just one activity and I keep the UI very simple.
+
+#Thank you so much for this wonderful opportunity and I really like to meet forward with the technical team.
