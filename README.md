@@ -24,6 +24,9 @@
 # Use ViewModel for placeholder data
 # Use Hilt for injecting components and use "by" delegation for injecting viewModel
 
+#Assumptions 
+#Can I use third party libraries?
+# I assumed it is okay to use ScrapeIt library
 
-
-                        
+#Do I have to build a complex UI?
+# I assumed whole assignment task can be done in just one activity and I keep the UI very simple 
