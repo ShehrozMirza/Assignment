@@ -23,18 +23,18 @@
  unique word (case insensitive) and display the count for each word on the screen.
 
 # App Approach
-# Make the UI of app very simple just one Textview and button inside scrollview.
-# Use Coroutines for calling 3 requests simultaneously.
-# Use Sealed class for DataState.
-# Use ViewModel for placeholder data.
-# Use Hilt for injecting components and use "by" delegation for injecting viewModel.
-# Add GitIgnore file.
+  Make the UI of app very simple just one Textview and button inside scrollview.
+ Use Coroutines for calling 3 requests simultaneously.
+ Use Sealed class for DataState.
+ Use ViewModel for placeholder data.
+ Use Hilt for injecting components and use "by" delegation for injecting viewModel.
+ Add GitIgnore file.
 
 # Assumptions 
-# Can I use third party libraries?
-# I assumed it is okay to use ScrapeIt library.
+#Can I use third party libraries?
+ I assumed it is okay to use ScrapeIt library.
 
 # Do I have to build a complex UI?
-# I assumed whole assignment task can be done in just one activity and I keep the UI very simple.
+ I assumed whole assignment task can be done in just one activity and I keep the UI very simple.
 
 #Thank you so much for this wonderful opportunity and I really like to meet forward with the technical team.
