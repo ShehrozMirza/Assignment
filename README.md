@@ -12,8 +12,8 @@
  then I may do this assignment in a different way or use Http network library for fetching data and make a clean architecture approach 
  using Solid principles,OOP,MVVM architecture pattern and unit test cases.
 
-#Below is my sample app repository for clean architecture using MVVM and here i write unit test cases too       
-#https://github.com/ShehrozMirza/MovieDB_Assignment.git
+# Below is my sample app repository for clean architecture using MVVM and here i write unit test cases too       
+# https://github.com/ShehrozMirza/MovieDB_Assignment.git
 
  Requirements
  "Grab https://blog.truecaller.com/2018/01/22/life-as-an-android-engineer/ content from web".
@@ -36,6 +36,6 @@
 I assumed it is okay to use ScrapeIt library.
 
 # Do I have to build a complex UI?
- I assumed whole assignment task can be done in just one activity and I keep the UI very simple.
+I assumed whole assignment task can be done in just one activity and I keep the UI very simple.
 
 #Thank you so much for this wonderful opportunity and I really like to meet forward with the technical team.
