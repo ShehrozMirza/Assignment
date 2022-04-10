@@ -58,9 +58,8 @@ class MainActivity : AppCompatActivity() {
 
                     bi.txtExtracted.text = sb.toString()
                 }
-
             }
         }
-
     }
+
 }
