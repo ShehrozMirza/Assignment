@@ -13,7 +13,7 @@
  using Solid principles,OOP,MVVM architecture pattern and unit test cases.
 
 # Below is my sample app repository for clean architecture using MVVM and here i write unit test cases too       
-# https://github.com/ShehrozMirza/MovieDB_Assignment.git
+ https://github.com/ShehrozMirza/MovieDB_Assignment.git
 
  Requirements
  "Grab https://blog.truecaller.com/2018/01/22/life-as-an-android-engineer/ content from web".
