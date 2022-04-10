@@ -18,11 +18,12 @@
 # Request-III. Split the text into words using whitespace characters (i.e. space, tab, line break, etc.) count the occurrence of every
 # unique word (case insensitive)  and display the count for each word on the screen
 
-# Make the UI of app very simple just one Textview and button
+# Make the UI of app very simple just one Textview and button inside scrollview
 # Use Coroutines for calling 3 requests simultaneously
 # Use Sealed class for DataState
 # Use ViewModel for placeholder data
 # Use Hilt for injecting components and use "by" delegation for injecting viewModel
+# Add GitIgnore file
 
 #Assumptions 
 #Can I use third party libraries?
