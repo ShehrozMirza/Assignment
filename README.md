@@ -12,7 +12,7 @@
  then I may do this assignment in a different way or use Http network library for fetching data and make a clean architecture approach 
  using Solid principles,OOP,MVVM architecture pattern and unit test cases.
 
-# Below is my sample app repository for clean architecture using MVVM and here i write unit test cases too       
+ Below is my sample app repository for clean architecture using MVVM and here i write unit test cases too       
  https://github.com/ShehrozMirza/MovieDB_Assignment.git
 
  Requirements
