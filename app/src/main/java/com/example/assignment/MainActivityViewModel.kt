@@ -70,9 +70,8 @@ class MainActivityViewModel @Inject constructor() : ViewModel() {
                         )
                     }
                 }
-                nthNumberValues +=
-                    everyNth(contentResponse.wholeText.replace("\\s".toRegex(), ""), 10)!!
 
+                nthNumberValues += contentResponse.wholeText.replace("\\s".toRegex(), " ")[10 - 1]
                 nthNumberValues += "\n\n"
 
                 taskValues.wholeText = contentResponse.wholeText.replace("\\s".toRegex(), " ")
@@ -171,7 +170,7 @@ class MainActivityViewModel @Inject constructor() : ViewModel() {
     }
 
     /**
-    Find the 10th character and display it on the screen
+    Find evert 10th character and display it on the screen
      */
     private suspend fun everyNth(str: String, nthCharacter: Int): String? {
         var displayNthCharacter: String? = DEFAULT_STRING
