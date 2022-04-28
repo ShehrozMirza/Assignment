@@ -8,9 +8,7 @@
 
  I keep the Architecture of the Application as simple as possible because I totally focused on functionality not making 
  it to much complex and completed the assignment in only two days as I don't have that much time because I have to do some office work 
- and have a deadline of tasks to be completed next week other than that If I have completely utilized my assignment deadline of four days 
- then I may do this assignment in a different way or use Http network library for fetching data and make a clean architecture approach 
- using Solid principles,OOP,MVVM architecture pattern and unit test cases.
+ and If I have completely utilized my assignment deadline of four days then I may do this assignment in a different way or use Http network library for fetching data     and make a clean architecture approach using Solid principles,OOP,MVVM architecture pattern and unit test cases.
 
  Below is my sample app repository for clean architecture using MVVM and here i write unit test cases too       
  https://github.com/ShehrozMirza/MovieDB_Assignment.git
